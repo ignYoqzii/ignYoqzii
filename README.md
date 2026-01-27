@@ -2,7 +2,7 @@
 
 ### A passionate software engineering student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ignYoqzii&label=Profile views&color=0e75b6&style=flat" alt="ignYoqzii" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/109358690?v=4" alt="ignYoqzii" /> </p>
 
 - 🔭 I'm currently working on **Some side projects for me and my friends, while learning and mastering my current coding skills.**
 
