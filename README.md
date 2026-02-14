@@ -3,7 +3,7 @@
 A passionate software engineering student at Université Laval.
 
 # 💫 About Me
-🔭 I'm currently working on some side projects for me and my friends, while learning and mastering my current coding skills.<br><br>🌱 I'm currently learning C++, C# and ASM.<br><br>⚡ Fun fact : I won a bronze medal in a tennis tournament some years ago... We were three players in total, lol.<br><br>🌐 My portfolio : [https://yoqzii.dev](https://yoqzii.dev)
+🔭 I'm currently working on some side projects for me and my friends, while learning and mastering my current coding skills.<br><br>🌱 I'm currently learning C++, C# and ARM.<br><br>⚡ Fun fact : I won a bronze medal in a tennis tournament some years ago... We were three players in total, lol.<br><br>🌐 My portfolio : [https://yoqzii.dev](https://yoqzii.dev)
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ScR9MGbRSY) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yoan-lévesque-b007a4383) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yoqzii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ignYoqzii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lvsqyo4@gmail.com) 
