@@ -1,22 +1,74 @@
-# Hi 👋, I'm yoqzii
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero.png" />
+  <img src="./assets/hero.gif" width="100%" alt="yoqzii - Software engineering student." />
+</picture>
 
-A passionate software engineering student at Université Laval.
+<p align="center">
+  <a href="https://yoqzii.dev"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp;-&nbsp;&nbsp;
+  <a href="https://discord.gg/ScR9MGbRSY">Discord</a>&nbsp;&nbsp;-&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ignYoqzii">YouTube</a>&nbsp;&nbsp;-&nbsp;&nbsp;
+  <a href="https://tiktok.com/@yoqzii">TikTok</a>
+</p>
 
-# 💫 About Me
-🔭 I'm currently working on some side projects for me and my friends, while learning and mastering my current coding skills.<br><br>🌱 I'm currently learning C++, C# and ARM.<br><br>⚡ Fun fact : I won a bronze medal in a tennis tournament some years ago... We were three players in total, lol.<br><br>🌐 My portfolio : [https://yoqzii.dev](https://yoqzii.dev)
+<br />
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ScR9MGbRSY) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yoqzii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ignYoqzii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lvsqyo4@gmail.com) 
+I'm a software engineering student at **Université Laval**, currently working at **Alstom Transport Canada Inc.**
 
-# 💻 Skills
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ignYoqzii&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ignYoqzii&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ignYoqzii&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I build projects for myself and my friends. Right now, I'm learning **Java** and getting better in **C++**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Outside of code : **cars, astronomy, and gaming**.
 
----
-![Views Count](https://komarev.com/ghpvc/?username=ignYoqzii)
+## Technologies & tools
+
+**Development**
+
+<p>
+  <img src="./assets/badges/cplusplus.png" height="33" alt="C++" title="C++" />
+  <img src="./assets/badges/csharp.png" height="33" alt="C#" title="C#" />
+  <img src="./assets/badges/python.png" height="33" alt="Python" title="Python" />
+  <img src="./assets/badges/dot-net.png" height="33" alt=".NET" title=".NET" />
+  <img src="./assets/badges/git.png" height="33" alt="Git" title="Git" />
+  <img src="./assets/badges/github.png" height="33" alt="GitHub" title="GitHub" />
+  <img src="./assets/badges/java.png" height="33" alt="Java" title="Java" />
+  <img src="./assets/badges/sql.png" height="33" alt="SQL" title="SQL" />
+</p>
+
+**Business applications**
+
+<p>
+  <img src="./assets/badges/powerapps.png" height="33" alt="Power Apps" title="Power Apps" />
+  <img src="./assets/badges/vba.png" height="33" alt="VBA" title="VBA" />
+</p>
+
+**Data & machine learning**
+
+<p>
+  <img src="./assets/badges/numpy.png" height="33" alt="NumPy" title="NumPy" />
+  <img src="./assets/badges/pandas.png" height="33" alt="Pandas" title="Pandas" />
+  <img src="./assets/badges/matplotlib.png" height="33" alt="Matplotlib" title="Matplotlib" />
+  <img src="./assets/badges/scikitlearn.png" height="33" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/badges/tensorflow.png" height="33" alt="TensorFlow" title="TensorFlow" />
+  <img src="./assets/badges/keras.png" height="33" alt="Keras" title="Keras" />
+</p>
+
+**Documentation & design**
+
+<p>
+  <img src="./assets/badges/latex.png" height="33" alt="LaTeX" title="LaTeX" />
+  <img src="./assets/badges/canva.png" height="33" alt="Canva" title="Canva" />
+  <img src="./assets/badges/premierepro.png" height="33" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="./profile/stats.svg" width="55%" alt="Public GitHub activity for ignYoqzii" />
+  <img src="./profile/top-langs.svg" width="43%" alt="Most used languages across public repositories" />
+</p>
+
+<details>
+<summary>One more thing 🥉</summary>
+
+I once won bronze in a tennis tournament. There were three players. Still counts.
+
+</details>
